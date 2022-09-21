@@ -1,6 +1,4 @@
 opensource prodject:
-
-
-python
-
-app
+x = 5
+y = 10
+print(x + y)
